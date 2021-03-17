@@ -31,5 +31,6 @@ Prototype video to be put here
 
 ## Contact Me
 
-Twitter: @ConnorGlad3
-Email: connordavidsondeveloper@gmail.com
+- Twitter: @ConnorGlad3
+
+- Email: connordavidsondeveloper@gmail.com
