@@ -25,3 +25,11 @@ Screenshots to be put here
 
 
 Prototype video to be put here
+
+
+
+
+## Contact Me
+
+Twitter: @ConnorGlad3
+Email: connordavidsondeveloper@gmail.com
